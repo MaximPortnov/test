@@ -30,8 +30,7 @@
                     "light": "#F5F5F5",
                     "dark": "#444444"
                 },
-                "screenshots": [
-                ],
+
                 "icons": {
                     "light": "resources/store/icon.png",
                     "dark": "resources/store/icon.png"
