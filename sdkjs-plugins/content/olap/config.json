@@ -30,12 +30,12 @@
                     "light": "#F5F5F5",
                     "dark": "#444444"
                 },
-                "screenshots": [
-                    "resources/store/screenshots/screen_1.png"
-                ],
+                // "screenshots": [
+                //     "resources/store/screenshots/screen_1.png"
+                // ],
                 "icons": {
-                    "light": "resources/store/icon",
-                    "dark": "resources/store/icon"
+                    "light": "resources/store/icon.png",
+                    "dark": "resources/store/icon.png"
                 },
                 "categories": [
                     "work",
