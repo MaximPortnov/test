@@ -1,0 +1,120 @@
+Лицензия проекта ДатаКонс
+
+Plugin Manager License
+
+Copyright © 2025 DataCons (ДатаКонс). All rights reserved.
+
+This software, including all modifications, extensions, and additional components
+developed after the initial fork, is the proprietary software of DataCons.
+
+Permission to use, reproduce, modify, or distribute the software, in whole or
+in part, is granted only under the terms of a separate license agreement with DataCons.
+
+This software is provided "as is", without warranty of any kind, express or implied,
+including but not limited to warranties of merchantability, fitness for a particular
+purpose, and noninfringement.
+
+Except where explicitly permitted by DataCons, no part of this software may be copied,
+modified, distributed, or used for commercial purposes without prior written permission
+from the copyright holder.
+
+---
+
+Лицензия проекта «Менеджер плагинов»
+
+© 2025 ДатаКонс. Все права защищены.
+
+Настоящее программное обеспечение, включая все изменения, расширения
+и дополнительные компоненты, разработанные после первоначального
+заимствования исходного кода, является проприетарным программным
+обеспечением компании ДатаКонс.
+
+Использование, воспроизведение, модификация и распространение
+данного программного обеспечения полностью или частично допускаются
+только в соответствии с отдельным лицензионным соглашением
+с компанией ДатаКонс.
+
+Программное обеспечение предоставляется «как есть», без каких-либо
+гарантий, явных или подразумеваемых.
+
+
+
+
+NOTICE
+
+Plugin Manager
+
+This product includes software initially derived from the ONLYOFFICE project.
+
+Source repository:
+https://github.com/ONLYOFFICE/onlyoffice.github.io
+
+The original components were licensed under the Apache License, Version 2.0.
+
+Copyright © Ascensio System SIA and contributors.
+
+Modifications, integrations, and additional functionality have been
+developed by DataCons as part of the Plugin Manager project.
+
+---
+
+Проект «Менеджер плагинов»
+
+Данный продукт содержит программный код, первоначально заимствованный
+из проекта ONLYOFFICE.
+
+Исходный репозиторий:
+https://github.com/ONLYOFFICE/onlyoffice.github.io
+
+Исходные компоненты распространялись на условиях лицензии
+Apache License версии 2.0.
+
+Правообладатель исходного проекта:
+Ascensio System SIA и участники проекта.
+
+Все последующие модификации, интеграции и дополнительные функции
+были разработаны компанией ДатаКонс в рамках проекта
+«Менеджер плагинов».
+
+
+THIRD-PARTY SOFTWARE NOTICES
+
+This project includes third-party software components.
+
+ONLYOFFICE components are licensed under the Apache License, Version 2.0.
+
+You may obtain a copy of the Apache License at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+Уведомления о стороннем программном обеспечении
+
+Данный проект содержит компоненты стороннего программного обеспечения.
+
+Компоненты ONLYOFFICE распространяются на условиях
+лицензии Apache License версии 2.0.
+
+Текст лицензии доступен по адресу:
+http://www.apache.org/licenses/LICENSE-2.0
+
+
+В README.md:
+
+Кратко опишите историю проекта: "Основано на коде [ссылка]. Исходный код лицензирован под Apache 2.0. Все последующие модификации распространяются под лицензией [лицензия]."
+
+
+Как будет выглядеть репозиторий:
+
+PluginManager
+ ├─ LICENSE
+ ├─ NOTICE
+ ├─ THIRD_PARTY_LICENSES
+ ├─ README.md
+ └─ src
+
+соответствует требованиям Apache 2.0
+корректна юридически
+используется крупными проектами
+позволяет закрыть новый код
+
